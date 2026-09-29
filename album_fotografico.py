@@ -1,6 +1,6 @@
 def carica_da_file(file_path):
 
-
+j
 
 def aggiungi_foto(album, codice, titolo, autore, mese, anno, file_path):
     """Aggiunge una foto all'album, creando l'anno al volo se non è ancora presente"""
